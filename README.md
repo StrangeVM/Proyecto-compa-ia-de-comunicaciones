@@ -1,6 +1,6 @@
 # 📊 Análisis de cancelaciones para anticipar clientes en riesgo y diseñar estrategias de retención efectivas, personalizadas y altamente sostenibles en telecomunicaciones.
 
-👋 ¡Hola! Soy Víctor, Data Scientist Junior.  
+👋 ¡Hola! Soy Víctor, Data Scientist.  
 Te comparto un resumen sencillo del estudio y la herramienta que predice quién podría cancelar su servicio en Interconnect.
 
 ---
