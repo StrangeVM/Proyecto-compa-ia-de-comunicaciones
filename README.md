@@ -22,9 +22,7 @@ Analizamos más de 100 000 contratos (2013–2020) para identificar **qué facto
 
 ## 📌 Hallazgos Clave  
 1. **Contratos mensuales** son 2× más propensos a churn que los anuales/bianuales.  
-   ![Duración promedio por tipo de contrato](./figures/avg_duration.png)  
 2. **Fibra óptica** registra más cancelaciones que DSL.  
-   ![Churn vs. Servicio de Internet](./figures/churn_internet.png)  
 3. El pago con **“Electronic check”** se asocia a cancelaciones elevadas.  
 4. **Clientes nuevos** (menor tiempo de contrato) muestran mayor riesgo de churn.
 
